@@ -1,5 +1,5 @@
 ### Hi there 👋
-### tuduan1902- W.J.Moriaty
+### tuduan1902- W.J.Moriarty
 ```Typescript
 const Will = 
 {
